@@ -14,3 +14,4 @@ public class ForLoopExample {
     }
 }
 
+we are just learning about fetch and merge
